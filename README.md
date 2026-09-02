@@ -1,6 +1,7 @@
 # smartrenamer-legal
 
-Public pages for SmartRenamer, the Mac screenshot-renaming app, served by
+Public pages for Screenshot Autopilot (formerly SmartRenamer), the Mac
+screenshot-renaming app, served by
 GitHub Pages from the `docs/` folder:
 
 - Marketing: https://taylorjpatterson.github.io/smartrenamer-legal/
